@@ -13,7 +13,7 @@ This is a simple Express.js application using Sequelize for database management 
 1. **Clone the repository:**
 
    ```bash
-   git clone git remote add origin https://github.com/tahsin-protik/task.git
+   git clone https://github.com/tahsin-protik/task.git
    cd your-repo-name
    ```
 
