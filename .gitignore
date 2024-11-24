@@ -1,0 +1,18 @@
+# Start Generation Here
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env*
+
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore coverage reports
+coverage/
+
+# End Generation Here
